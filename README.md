@@ -5,9 +5,8 @@ model predicts what a robot will observe next from what it observes now and the
 action it takes.
 
 Most of the new work in robot learning is on arms, and little of it has reached
-drones. This repo is for finding out which of it is worth having on one. I am
-not committing to any one direction right now. I am trying different things, and
-the list below is what I am trying. There is no code yet.
+drones. I am not sure what is best, so I am trying a few angles. There is no
+code yet.
 
 A drone has to be stabilized hundreds of times per second, and these models
 produce a chunk of actions a few times per second. In every direction below the
