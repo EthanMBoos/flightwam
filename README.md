@@ -1,8 +1,8 @@
 # wm-drones
 
-wm-drones is where I try out learned world models on a drone. A world model
-predicts what a robot will observe next from what it observes now and the action
-it takes.
+wm-drones is where I am trying out learned world models on a drone. A world
+model predicts what a robot will observe next from what it observes now and the
+action it takes.
 
 Most of the new work in robot learning is on arms, and little of it has reached
 drones. This repo is for finding out which of it is worth having on one. I am
