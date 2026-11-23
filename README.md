@@ -1,6 +1,6 @@
-# wm-drones
+# flightwam
 
-wm-drones is where I am trying out learned world models on a drone. A world
+flightwam is where I am trying out learned world models on a drone. A world
 model predicts what a robot will observe next from what it observes now and the
 action it takes.
 
